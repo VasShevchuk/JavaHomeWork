@@ -38,7 +38,7 @@ public class Calculator {
                 System.out.println("результат" +c);
                 break;
             default:
-                System.out.println("Неверный оператор");
+                System.out.println("Неверный ");
         }
 
 
